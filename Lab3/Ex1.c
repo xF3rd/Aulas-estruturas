@@ -29,7 +29,7 @@ int main() {
 
     for(int i = 0 ; i < 2 ; i++){
         printf("Codigo do prod:");
-        scanf("%d",&a);
+        scanf("%d",&a );
 
         printf("Codigo do quant:");
         scanf("%d",&b);
